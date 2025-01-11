@@ -1,4 +1,4 @@
-# GitHub Actions 自动化
+# 红杏自动签到
 
 您可以通过 GitHub Actions 实现自动签到。
 
